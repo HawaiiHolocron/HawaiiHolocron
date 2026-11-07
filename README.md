@@ -11,7 +11,12 @@ Data science and LLM evaluation · France
 
 ---
 
-#### Featured project
+#### Featured projects
+
+**[Potentiel · renovation plans from energy certificates](https://github.com/RomainYoung/potentiel-travaux-dpe)** (prototype, France): turns a property listing
+or its official energy certificate (DPE) into a costed renovation plan. Real certificates from
+the national ADEME database are recomputed with the official 3CL method, with three renovation
+paths and a quote broken down by trade. [Live mockup](https://romainyoung.github.io/potentiel-travaux-dpe/demo/)
 
 **[HarvardX Data Science Capstone](https://github.com/RomainYoung/Harvard-Capstone)**: two end-to-end ML projects in R
 
