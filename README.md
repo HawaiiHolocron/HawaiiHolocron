@@ -2,7 +2,7 @@
 
 Data science and LLM evaluation · France
 
-- 🎓 Bachelor's degree (Licence) in **Mathematics and Computer Science**
+- 🎓 Master's degree (Licence) in **Mathematics and Computer Science**
 - 📜 **HarvardX Professional Certificate in Data Science** (edX): full R-based
   curriculum, from probability and inference to machine learning, ending with two capstone projects
 - 🤖 Hands-on experience in **RLHF and LLM evaluation**: rating and comparing model
