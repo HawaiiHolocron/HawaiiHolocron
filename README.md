@@ -22,8 +22,7 @@ Data science and LLM evaluation · France
 
 #### Coursework
 
-- [Deep learning with Keras and PyTorch](https://github.com/RomainYoung/Keras_TensorFlow_Pytorch): IBM course assignments
-- [Stock price and revenue dashboard](https://github.com/RomainYoung/pythonproject): APIs, web scraping, Plotly (IBM)
+- [Deep learning with Keras and PyTorch](https://github.com/RomainYoung/deep-learning-coursework): IBM course assignments (regression in Keras, a classifier in PyTorch)
 
 #### Tools
 
